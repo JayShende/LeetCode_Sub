@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayShende/LeetCode_Sub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0027-remove-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0027-remove-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
