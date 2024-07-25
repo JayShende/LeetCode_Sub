@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/JayShende/LeetCode_Sub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
