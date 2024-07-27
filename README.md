@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
