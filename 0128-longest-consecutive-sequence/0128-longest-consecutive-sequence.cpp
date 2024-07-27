@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Better Solution The Brute Force Solution Hits TLE.
     int longestConsecutive(vector<int>& vec) {
         int n=vec.size();
         sort(vec.begin(),vec.end());
