@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
+| [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
