@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayShende/LeetCode_Sub/tree/master/0020-valid-parentheses) |
+| [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
