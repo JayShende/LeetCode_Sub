@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/JayShende/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -69,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
