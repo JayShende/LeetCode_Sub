@@ -9,6 +9,15 @@ public:
         {
             mid=low+(high-low)/2;
 
+
+            //OPtimization when the Entire Array Becomes Sorted
+            // ie nums[low]<=nums[mid]<=nums[high] ---> nums[low]<=nums[high]
+
+            if(nums[low]<=nums[high])
+            {
+                ans=min(ans,nums[low]);
+                break;
+            }
             // Find The Sorted Half
             if(nums[low]<=nums[mid])
             {
