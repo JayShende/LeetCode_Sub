@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -54,6 +55,7 @@
 | [0035-search-insert-position](https://github.com/JayShende/LeetCode_Sub/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
