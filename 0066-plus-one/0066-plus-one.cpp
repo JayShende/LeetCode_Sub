@@ -16,6 +16,8 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int c=1;
         int n=digits.size();
+
+        // Count Num of 9 if equal to n then Make a New vector
         if(fun(digits))
         {
             vector<int> ans;
