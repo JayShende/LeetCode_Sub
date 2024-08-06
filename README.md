@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/JayShende/LeetCode_Sub/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
