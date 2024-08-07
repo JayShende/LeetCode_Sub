@@ -22,6 +22,7 @@
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
@@ -61,6 +62,7 @@
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
