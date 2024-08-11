@@ -48,6 +48,7 @@
 | [0007-reverse-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -57,6 +58,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JayShende/LeetCode_Sub/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
