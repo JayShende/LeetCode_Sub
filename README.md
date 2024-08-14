@@ -32,6 +32,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/JayShende/LeetCode_Sub/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@
 | [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
