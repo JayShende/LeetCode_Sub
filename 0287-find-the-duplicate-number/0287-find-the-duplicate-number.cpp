@@ -1,22 +1,28 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        map<int,int> mpp;
+        sort(nums.begin(),nums.end());
+        int low=0,high=nums.size()-1;
 
-        for(auto it:nums)  
+        while(low<=high)
         {
-            mpp[it]++;
-        }
-        int ans=-1;
-        for(auto it:mpp)
-        {
-            if(it.second>1)
+            if(nums[low]==nums[low+1])
             {
-                ans=it.first;
-                break;
+                return nums[low];
+            }
+            else{
+                low++;
+            }
+
+            if(nums[high]==nums[high-1])
+            {
+                return nums[high];
+            }
+            else{
+                high--;
             }
         }
 
-        return ans;
+        return -1;
     }
 };
