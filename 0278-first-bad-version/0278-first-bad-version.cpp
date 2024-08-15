@@ -4,13 +4,22 @@
 class Solution {
 public:
     int firstBadVersion(int n) {
-        int ans=-1;
-        for(int i=1;i<=n;i++)
+        int low=1,high=n;
+        int mid,ans=-1;
+
+        while(low<=high)
         {
-            if(isBadVersion(i))
+            mid=low+(high-low)/2;
+
+            if(isBadVersion(mid))
             {
-                ans=i;
-                break;
+                ans=mid;
+
+                // i want Minimum So Eliminate Right
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
 
