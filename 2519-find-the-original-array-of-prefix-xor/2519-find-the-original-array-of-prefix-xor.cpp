@@ -7,7 +7,7 @@ public:
 
         for(int i=1;i<n;i++)
         {
-            ans[i]=a^pref[i];
+            ans[i]=pref[i]^pref[i-1];
             a=a^ans[i];
         }
 
