@@ -30,6 +30,7 @@
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Interactive
 |  |
 | ------- |
