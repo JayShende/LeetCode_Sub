@@ -97,6 +97,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JayShende/LeetCode_Sub/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/JayShende/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0812-rotate-string) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0812-rotate-string) |
 ## Enumeration
 |  |
 | ------- |
