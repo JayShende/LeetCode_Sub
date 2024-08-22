@@ -40,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JayShende/LeetCode_Sub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JayShende/LeetCode_Sub/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JayShende/LeetCode_Sub/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
