@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/JayShende/LeetCode_Sub/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JayShende/LeetCode_Sub/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/JayShende/LeetCode_Sub/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JayShende/LeetCode_Sub/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JayShende/LeetCode_Sub/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -140,6 +142,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JayShende/LeetCode_Sub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
