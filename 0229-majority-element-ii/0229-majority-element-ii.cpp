@@ -5,7 +5,7 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         int n=nums.size();
         int count1=0,count2=0;
-        int ele1=INT_MIN,ele2=INT_MIN;
+        int ele1,ele2;
         
         vector<int> ans;
 
@@ -39,7 +39,7 @@ public:
         {
             ans.push_back(ele1);
         }
-        if(b>(n/3) )
+        if(b>(n/3) && ele1!=ele2)
         {
             ans.push_back(ele2);
         }
