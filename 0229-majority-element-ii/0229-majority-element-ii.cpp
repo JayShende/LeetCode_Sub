@@ -1,36 +1,23 @@
-// Brute Force Approach O(n2)
+// Better Approach Using Hashing
 
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         int n=nums.size();
+        map<int,int> mpp;
         vector<int> ans;
-
-        for(int i=0;i<n;i++)
+        for(auto it:nums)
         {
-            if(ans.size()==0 || ans.back()!=nums[i])
-            {   int count=0;
-                for(int j=0;j<n;j++)
-                {
-                    if(nums[j]==nums[i])
-                    {
-                        count++;
-                    }
-
-                    if(count>(n/3))
-                    {
-                        ans.push_back(nums[i]);
-                        if(ans.size()==2)
-                        {
-                            return ans;
-                        }
-                        break;
-                    }
-                   
-                }
-            }
+            mpp[it]++;
         }
 
+        for(auto it:mpp)
+        {
+            if(it.second>(n/3))
+            {
+                ans.push_back(it.first);
+            }
+        }
 
         return ans;
     }
