@@ -1,3 +1,5 @@
+// Brute Force Approach O(n2)
+
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
