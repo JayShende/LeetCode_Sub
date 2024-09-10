@@ -27,6 +27,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
@@ -124,6 +125,7 @@
 | [0015-3sum](https://github.com/JayShende/LeetCode_Sub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JayShende/LeetCode_Sub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/JayShende/LeetCode_Sub/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -143,6 +145,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JayShende/LeetCode_Sub/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/JayShende/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JayShende/LeetCode_Sub/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
