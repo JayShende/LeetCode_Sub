@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
@@ -92,6 +93,7 @@
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/JayShende/LeetCode_Sub/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayShende/LeetCode_Sub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -190,4 +193,20 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
