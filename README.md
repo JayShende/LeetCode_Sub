@@ -43,6 +43,7 @@
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JayShende/LeetCode_Sub/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2058-concatenation-of-array) |
@@ -91,6 +92,7 @@
 | [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -174,6 +176,7 @@
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+| [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
+| [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Binary Indexed Tree
 |  |
