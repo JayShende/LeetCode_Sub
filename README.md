@@ -45,6 +45,7 @@
 | [1580-shuffle-the-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -190,6 +191,7 @@
 | [0054-spiral-matrix](https://github.com/JayShende/LeetCode_Sub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JayShende/LeetCode_Sub/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
