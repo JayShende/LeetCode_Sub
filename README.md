@@ -32,6 +32,7 @@
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/JayShende/LeetCode_Sub/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
@@ -88,6 +89,7 @@
 | [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -103,6 +105,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/JayShende/LeetCode_Sub/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/JayShende/LeetCode_Sub/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
@@ -146,6 +149,7 @@
 | [0088-merge-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -168,6 +172,7 @@
 | [0205-isomorphic-strings](https://github.com/JayShende/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
@@ -198,6 +203,7 @@
 | [0136-single-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/JayShende/LeetCode_Sub/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [1054-complement-of-base-10-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1054-complement-of-base-10-integer) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
