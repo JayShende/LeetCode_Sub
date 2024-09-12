@@ -125,6 +125,7 @@
 | [0205-isomorphic-strings](https://github.com/JayShende/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0812-rotate-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -163,6 +164,7 @@
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Binary Indexed Tree
 |  |
 | ------- |
