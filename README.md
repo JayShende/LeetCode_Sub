@@ -78,6 +78,7 @@
 | [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JayShende/LeetCode_Sub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JayShende/LeetCode_Sub/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [1054-complement-of-base-10-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/1054-complement-of-base-10-integer) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
