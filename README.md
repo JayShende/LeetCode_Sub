@@ -39,6 +39,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JayShende/LeetCode_Sub/tree/master/1505-create-target-array-in-the-given-order) |
+| [1580-shuffle-the-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2058-concatenation-of-array) |
