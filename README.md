@@ -51,6 +51,7 @@
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JayShende/LeetCode_Sub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayShende/LeetCode_Sub/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
@@ -139,6 +140,7 @@
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/JayShende/LeetCode_Sub/tree/master/0812-rotate-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JayShende/LeetCode_Sub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/JayShende/LeetCode_Sub/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/JayShende/LeetCode_Sub/tree/master/3194-find-words-containing-character) |
 ## Stack
