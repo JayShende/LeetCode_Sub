@@ -106,6 +106,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JayShende/LeetCode_Sub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JayShende/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/JayShende/LeetCode_Sub/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 ## String
 |  |
@@ -179,6 +180,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/JayShende/LeetCode_Sub/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0287-find-the-duplicate-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JayShende/LeetCode_Sub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Interactive
