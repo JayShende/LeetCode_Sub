@@ -43,6 +43,7 @@
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JayShende/LeetCode_Sub/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1603-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
