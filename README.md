@@ -41,6 +41,7 @@
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayShende/LeetCode_Sub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JayShende/LeetCode_Sub/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JayShende/LeetCode_Sub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1580-shuffle-the-array) |
@@ -121,6 +122,7 @@
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayShende/LeetCode_Sub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
