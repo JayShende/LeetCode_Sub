@@ -48,6 +48,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/JayShende/LeetCode_Sub/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayShende/LeetCode_Sub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JayShende/LeetCode_Sub/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
@@ -125,6 +126,7 @@
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayShende/LeetCode_Sub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayShende/LeetCode_Sub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JayShende/LeetCode_Sub/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -164,6 +166,7 @@
 | [0229-majority-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JayShende/LeetCode_Sub/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
