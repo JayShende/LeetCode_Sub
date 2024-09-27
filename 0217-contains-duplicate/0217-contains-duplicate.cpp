@@ -2,20 +2,15 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         int n=nums.size();
-        map<int,int> mpp;
-
-        for(auto it:nums)
+        sort(nums.begin(),nums.end());
+        int i=0,j=1;
+        while(i<n && j<n)
         {
-            mpp[it]++;
-        
-        }
-
-        for(auto it:mpp)
-        {
-            if(it.second>=2) return true;
+            if(nums[i]==nums[j]) return true;
+            i++;
+            j=i+1;
         }
 
         return false;
-
     }
 };
