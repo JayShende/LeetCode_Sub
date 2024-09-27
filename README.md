@@ -41,6 +41,7 @@
 | [0493-reverse-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/JayShende/LeetCode_Sub/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/JayShende/LeetCode_Sub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/JayShende/LeetCode_Sub/tree/master/0907-koko-eating-bananas) |
@@ -199,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/JayShende/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JayShende/LeetCode_Sub/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/JayShende/LeetCode_Sub/tree/master/0575-distribute-candies) |
 | [1635-number-of-good-pairs](https://github.com/JayShende/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JayShende/LeetCode_Sub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
