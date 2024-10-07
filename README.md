@@ -56,6 +56,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/JayShende/LeetCode_Sub/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/JayShende/LeetCode_Sub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -135,6 +136,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayShende/LeetCode_Sub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayShende/LeetCode_Sub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/JayShende/LeetCode_Sub/tree/master/1675-magnetic-force-between-two-balls) |
+| [2047-find-a-peak-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JayShende/LeetCode_Sub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JayShende/LeetCode_Sub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -220,6 +222,7 @@
 | [0074-search-a-2d-matrix](https://github.com/JayShende/LeetCode_Sub/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JayShende/LeetCode_Sub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/JayShende/LeetCode_Sub/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/JayShende/LeetCode_Sub/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/JayShende/LeetCode_Sub/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/JayShende/LeetCode_Sub/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
