@@ -102,6 +102,7 @@
 | [0009-palindrome-number](https://github.com/JayShende/LeetCode_Sub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JayShende/LeetCode_Sub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JayShende/LeetCode_Sub/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/JayShende/LeetCode_Sub/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JayShende/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JayShende/LeetCode_Sub/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JayShende/LeetCode_Sub/tree/master/0189-rotate-array) |
@@ -287,6 +288,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/JayShende/LeetCode_Sub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JayShende/LeetCode_Sub/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
